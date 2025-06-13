@@ -1,4 +1,5 @@
 # Gesture-Controlled Lamp with BLE Feedback - Arduino
+#### Author: Bocaletto Luca
 
 **Files**  
 - `README.md`  
